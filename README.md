@@ -1,4 +1,4 @@
-<meta name="google-site-verification" content="em_clkmOn_gbO48areJkX51Ri7PRAL4v4MqntPEQAuU" /> 
+<meta name="google-site-verification" content="W4Q69azaFlvdVeAM8eE5zLcPTICZG1AQ_iOkNdFsUTI" />
 
 # CS50
   
