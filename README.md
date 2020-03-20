@@ -1,9 +1,9 @@
 # CS50
   
-CS50 is an introduction to the intellectual enterprises of computer science and the art of programming.
-https://cs50.harvard.edu/x/2020/   
-taught in Harvard and Yale and it's open for free in Edx   
-https://www.edx.org/course/cs50s-introduction-to-computer-science   
+CS50 is an introduction to the intellectual enterprises of computer science and the art of programming.  
+https://cs50.harvard.edu/x/2020/     
+taught in Harvard and Yale and it's open for free in Edx.    
+https://www.edx.org/course/cs50s-introduction-to-computer-science     
 I've enrolled in this course in 2018 and stopped, tried to start over in 2019 and stopped, started again 18.3.20  and hopefully will finish it.  
 # course main languages are C and python, keep in mind it's just an introduction
 - ## why posting the solutions here   
