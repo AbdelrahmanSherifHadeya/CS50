@@ -1,4 +1,3 @@
-
 # CS50
   
 CS50 is an introduction to the intellectual enterprises of computer science and the art of programming.
