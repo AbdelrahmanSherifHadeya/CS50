@@ -1,1 +1,14 @@
 theme: jekyll-theme-cayman
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="google-site-verification" content="W4Q69azaFlvdVeAM8eE5zLcPTICZG1AQ_iOkNdFsUTI" />
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
