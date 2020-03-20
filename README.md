@@ -1,4 +1,7 @@
+<meta name="google-site-verification" content="em_clkmOn_gbO48areJkX51Ri7PRAL4v4MqntPEQAuU" /> 
+
 # CS50
+  
 CS50 is an introduction to the intellectual enterprises of computer science and the art of programming.
 https://cs50.harvard.edu/x/2020/   
 taught in Harvard and Yale and it's open for free in Edx   
