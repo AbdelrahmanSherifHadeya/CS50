@@ -9,4 +9,4 @@ taught in Harvard and Yale and it's open for free in Edx
 //2-Great people can help make the code less aweful  
 //3-Some students may find this helpful or give them an idea how to solve the problem  
  # By all means this isn't for cheating no way Harvard or Yale student will cheat from here and all the online learners don't need to cheat we already want to learn this
- ## [pset1] (https://github.com/AbdelrahmanSherifHadeya/hello-world) c language
+ ## [pset1](https://github.com/AbdelrahmanSherifHadeya/hello-world) c language
