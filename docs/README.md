@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta name="google-site-verification" content="W4Q69azaFlvdVeAM8eE5zLcPTICZG1AQ_iOkNdFsUTI" />  
-<title>CS50</title>
+<title>CS50 solutions</title>
 </head>
 <body>
 
