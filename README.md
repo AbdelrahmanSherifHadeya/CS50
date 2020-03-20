@@ -11,7 +11,7 @@ taught in Harvard and Yale and it's open for free in Edx
  # By all means this isn't for cheating no way Harvard or Yale student will cheat from here and all the online learners don't need to cheat we already want to learn this
  ## [pset1](https://github.com/AbdelrahmanSherifHadeya/hello-world) c language  
  
-    - [Hello(https://github.com/AbdelrahmanSherifHadeya/CS50/blob/master/pset1/Hello.c)
+ - [Hello](https://github.com/AbdelrahmanSherifHadeya/CS50/blob/master/pset1/Hello.c)
     - [MarioLess](https://github.com/AbdelrahmanSherifHadeya/CS50/blob/master/pset1/MarioLess.c)
     - [MarioMore](https://github.com/AbdelrahmanSherifHadeya/CS50/blob/master/pset1/MarioMore.c)
     - [Cash](https://github.com/AbdelrahmanSherifHadeya/CS50/blob/master/pset1/Cash.c)
