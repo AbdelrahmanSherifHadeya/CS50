@@ -19,3 +19,7 @@ I've enrolled in this course in 2018 and stopped, tried to start over in 2019 an
   - [MarioMore](https://github.com/AbdelrahmanSherifHadeya/CS50/blob/master/pset1/MarioMore.c)
   - [Cash](https://github.com/AbdelrahmanSherifHadeya/CS50/blob/master/pset1/Cash.c)
   - [Credit](https://github.com/AbdelrahmanSherifHadeya/CS50/blob/master/pset1/Credit.c)
+  
+- ## [pset2](https://github.com/AbdelrahmanSherifHadeya/CS50/blob/master/pset2)
+
+  - [Readability](https://github.com/AbdelrahmanSherifHadeya/CS50/blob/master/pset2/Readability.c)
