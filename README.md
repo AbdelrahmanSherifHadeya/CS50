@@ -24,3 +24,4 @@ I've enrolled in this course in 2018 and stopped, tried to start over in 2019 an
 
   - [Readability](https://github.com/AbdelrahmanSherifHadeya/CS50/blob/master/pset2/Readability.c)
   - [Ceaser](https://github.com/AbdelrahmanSherifHadeya/CS50/blob/master/pset2/caesar.c)
+  - [Substitution](https://github.com/AbdelrahmanSherifHadeya/CS50/blob/master/pset2/substitution.c)
